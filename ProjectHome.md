@@ -1,0 +1,3 @@
+The Arduino Watch provides augmented sensing of temperature and range, 16-bit color drawing program, Breakout game, and also tells the time in your choice of digital, binary, or analog.  Additional sensors, devices, and programs are easy to add as any standard Arduino.
+
+The latest version of the Arduino Watch software is in the featured box to the right.  The files you need are the `WatchR64.zip` and the `Arduino Watch Libraries R64.zip`
